@@ -26,7 +26,7 @@ hermes memory status
 
 配置完成后，Hermes 自动使用 OpenViking 作为长期记忆——`viking_remember`、`viking_recall` 等记忆工具即刻可用。
 
-## 参见
+## 参考文档
 
 - [Hermes — OpenViking memory provider 文档](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory-providers#openviking) — 完整配置指南
 - [部署指南](../guides/03-deployment.md) — 搭建 OpenViking 服务
